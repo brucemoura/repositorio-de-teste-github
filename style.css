@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.tabela{
+  width: 400px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+span{
+  text-transform: uppercase;
+  text-align: center;
+  display: block;
+}
+
+table{
+  border-collapse: collapse;
+  margin: 15px auto;
+}
+
+td, th{
+  background-color: lightgray;
+  border: 1px solid black;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+td{
+  padding: 10px 30px;
+  text-align: left;
+}
